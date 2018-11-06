@@ -3,7 +3,7 @@ title: The Alphabet
 lang: en-US
 ---
 
-# The German Alphabet
+# The German Alphabet - Part One
 
 The best thing start with when learning new langauge is the alpahabet of the language, so we know what's there and how words are pronounced in that language; in this case, the German language :)
 
