@@ -64,9 +64,29 @@ I don't think you have to worry about that at all! You just have to look for the
  - **Q**:  always occurs in combination with `U`, as in English, and together they are pronounced `kv`.
  **Example**: `Qualität` means *Quality* | `Quelle` means *Source*.
 
+ - **S**:  at the **beginning** and in the **middle** of a word is pronounced `z`; however at the **end** of a word is pronounced `s`; **ss** is always pronounced `s` too.
+ **Example**: `Sollen` means *Should* | `Lesen` means *Read* | `Glas` means *Glass* | `Schoss` means *Lap*.
+
+- **T**: in French loanwords **ending** in *-tion*, `t` is pronounced `ts`. 
+**Example**: `Nation` means *Nation* | `Station` means *Station*.
+
+- **Tsch**: is pronounced like `tch` in *butcher*.
+**Example**: `Deutsch` means *German* | `Tschüss` means *Bye*.
+
+- **V**: I know that I told you this is `f`, but it can be also a `v` in **loanwords**.
+**Example**: `Vase` means *Vase* | `Video` means *Video*.
+
+- **X**: is rare in German, is always pronounced `ks`.
+**Example**: `Nix` means *Nothing*.
+
+- **Z**: is `ts`, however you might see it comes next to the letter `t`, that doesn't do anything special, the `z` is still pronounced as `ts` :).
+**Example**: `Platz` means *Place*.
+
 
 <br />
 
-Okey, that one is getting out of hand, so let's cut it here :D .. See you in the next lesson 🤓.
+With that, we're officially completed the German alphabets and the way they pronounced :). I know it was boring, but we had to go through that. 
+
+Now we're out of that, let's jump to pronouns in German, shall we! ;)
 
 

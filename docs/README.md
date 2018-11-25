@@ -25,7 +25,7 @@ Remember to fire up **Google Translate**, and listen to every German word mentio
 **Example**: `Computer` means *Computer* | `Clown` means *Clown*.
 
 - **D**: It's `d`, just like the English one!
-**Example**: `Dummm` means *Stupid* | `Drachen` means *Kite* or *Dragon*.
+**Example**: `Dumm` means *Stupid* | `Drachen` means *Kite* or *Dragon*.
 
 - **E**: That's **not** the same `e` in English! Don't be fooled by it's look :D. That's a soft `a`, think of it as `فتحة` in Arabic. However, sometimes it's been pronounced as the English `e`, that's something that we gonna talk about in **pronounciation** lesson.
 **Example**: `Ente` means *Duck* | `Elefant` means *Elephant*.
